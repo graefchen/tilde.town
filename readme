@@ -1,7 +1,22 @@
-           tilde.town/~graefchen
-       a website from on tilde.town
+            tilde.town/~graefchen
+       a website from me on tilde.town
 
-pure [html|cs|js]
+                            pure [html|cs|js]
+
 that is [minimal|versioned]
 
-                                    vim:cc=45
+designed so it seems [modern|minimal], like a
+smart[phone|watch], but also very lightweight
+and performant on devices, using established
+[css|js] that is not experimental on any
+major browser
+
+text-based browsers are for the first part
+ignored, but could be added later
+
+                      *
+
+only the [html|css|js] files are uploaded
+over sftp to the tilde.town server
+
+                               vim:cc=1,23,45

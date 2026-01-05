@@ -1,7 +1,7 @@
 {
-    "[plaintext]": {
-                "editor.unicodeHighlight.ambiguousCharacters": false,
-        "editor.unicodeHighlight.invisibleCharacters": false,
-        "editor.rulers": [0,45]
-    }
+  "[plaintext]": {
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.rulers": [0, 22, 23, 45]
+  }
 }
