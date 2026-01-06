@@ -1,9 +1,7 @@
             tilde.town/~graefchen
        a website from me on tilde.town
 
-                            pure [html|cs|js]
-
-that is [minimal|versioned]
+pure [html|cs|js] that is [minimal|versioned]
 
 designed so it seems [modern|minimal], like a
 smart[phone|watch], but also very lightweight
@@ -18,5 +16,11 @@ ignored, but could be added later
 
 only the [html|css|js] files are uploaded
 over sftp to the tilde.town server
+
+                      *
+
+this does not include feels, the blogging
+software installed by default on the tilde
+server
 
                                vim:cc=1,23,45
